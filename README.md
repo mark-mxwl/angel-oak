@@ -1,5 +1,5 @@
 # Angel Oak 🍂
-### Bring Order to Your Most Choatic Folders
+### Bring Order to Your Most Chaotic Folders
 
 Here's a fun little Python script you can run from your terminal. Pick your messiest, most dauntingly undermaintained folder, and blink. *Done.* Angel Oak sorts all your unsorted crud into neat little subfolders based on file extension. Hooray! It also creates a handy output log upon completion, which is placed in the target directory.
 
