@@ -30,10 +30,13 @@ Make sure you have Python installed on your system, and [install](https://www.py
 python --version
 ~~~
 
-From your terminal, navigate to the directory where you downloaded Angel Oak.
+> [!IMPORTANT]
+> **MacOS users:** If you receive the error `zsh: command not found: python`, try the following: `echo "alias python=/usr/local/bin/python3" >> ~/.zshrc`.
+
+Clone the Angel Oak repo or download the .zip from the "<> Code" dropdown above. Then, in your terminal, navigate to `angel-oak` (clone) or `angle-oak-main` (.zip). For the best results, move Angel Oak **outside** of the directory you'd like to sort.
 
 ~~~
-cd Downloads/angel-oak
+cd Desktop/angel-oak-main
 ~~~
 
 When you run the script via `python main.py`, you'll be prompted to enter a target directory and a name for the output log.
