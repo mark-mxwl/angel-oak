@@ -1,7 +1,7 @@
 # Angel Oak 🍂
-### Bring Order to Your Most Chaotic Folders
+### Trim up your overgrown directories
 
-Here's a fun little Python script you can run from your terminal. Pick your messiest, most dauntingly undermaintained folder, and blink. *Done.* Angel Oak sorts all your unsorted crud into neat little subfolders based on file extension. Hooray! It also creates a handy output log upon completion, which is placed in the target directory.
+Here's a fun little Python script you can run from your terminal. Pick your messiest, most dauntingly undermaintained directory, and blink. *Done.* Angel Oak sorts all your unsorted crud into neat little subdirectories based on file extension. Hooray! It also creates a handy output log upon completion, which is placed in the target directory.
 
 Here's the directory tree you can expect after running the script:
 
